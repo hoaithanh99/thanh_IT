@@ -1,0 +1,6 @@
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau3\server_TCP_dang_stream\server_TCP_dang_stream\bin\Debug\server_TCP_dang_stream.exe.config
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau3\server_TCP_dang_stream\server_TCP_dang_stream\bin\Debug\server_TCP_dang_stream.exe
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau3\server_TCP_dang_stream\server_TCP_dang_stream\bin\Debug\server_TCP_dang_stream.pdb
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau3\server_TCP_dang_stream\server_TCP_dang_stream\obj\Debug\server_TCP_dang_stream.csproj.CoreCompileInputs.cache
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau3\server_TCP_dang_stream\server_TCP_dang_stream\obj\Debug\server_TCP_dang_stream.exe
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau3\server_TCP_dang_stream\server_TCP_dang_stream\obj\Debug\server_TCP_dang_stream.pdb

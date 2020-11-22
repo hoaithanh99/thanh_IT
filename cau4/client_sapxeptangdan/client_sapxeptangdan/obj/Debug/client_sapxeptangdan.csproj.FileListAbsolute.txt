@@ -1,0 +1,6 @@
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau4\client_sapxeptangdan\client_sapxeptangdan\bin\Debug\client_sapxeptangdan.exe.config
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau4\client_sapxeptangdan\client_sapxeptangdan\bin\Debug\client_sapxeptangdan.exe
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau4\client_sapxeptangdan\client_sapxeptangdan\bin\Debug\client_sapxeptangdan.pdb
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau4\client_sapxeptangdan\client_sapxeptangdan\obj\Debug\client_sapxeptangdan.csproj.CoreCompileInputs.cache
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau4\client_sapxeptangdan\client_sapxeptangdan\obj\Debug\client_sapxeptangdan.exe
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau4\client_sapxeptangdan\client_sapxeptangdan\obj\Debug\client_sapxeptangdan.pdb

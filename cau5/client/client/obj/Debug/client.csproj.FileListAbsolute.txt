@@ -1,0 +1,7 @@
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau5\client\client\bin\Debug\client.exe.config
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau5\client\client\bin\Debug\client.exe
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau5\client\client\bin\Debug\client.pdb
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau5\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau5\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau5\client\client\obj\Debug\client.exe
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau5\client\client\obj\Debug\client.pdb

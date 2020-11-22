@@ -1,0 +1,6 @@
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau2\client_TCP\client_TCP\bin\Debug\client_TCP.exe.config
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau2\client_TCP\client_TCP\bin\Debug\client_TCP.exe
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau2\client_TCP\client_TCP\bin\Debug\client_TCP.pdb
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau2\client_TCP\client_TCP\obj\Debug\client_TCP.csproj.CoreCompileInputs.cache
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau2\client_TCP\client_TCP\obj\Debug\client_TCP.exe
+C:\Users\Mai Hoai Thanh\source\Bài tập HĐH\BTTH7\cau2\client_TCP\client_TCP\obj\Debug\client_TCP.pdb
